@@ -1,0 +1,78 @@
+Zachary Kingcade
+Discrete Program 04
+Acquaintance Graph 0: 3Friends: 
+Kali, Kali, Randell, 
+0 1 0 
+1 0 0 
+0 0 0 
+Introductions to be made:
+Kali and Randell
+Kali and Randell
+
+Acquaintance Graph 1: 4Friends: 
+Amberly, Randell, Wendell, Oretha, 
+1 0 0 0 
+0 1 0 1 
+0 0 1 0 
+0 1 0 1 
+Introductions to be made:
+Amberly and Randell
+Amberly and Wendell
+Amberly and Oretha
+Randell and Wendell
+Wendell and Oretha
+
+Acquaintance Graph 2: 4Friends: 
+Tiny, Lee, Keven, Jefferey, 
+0 1 0 0 
+1 0 0 1 
+0 0 0 1 
+0 1 1 1 
+Introductions to be made:
+Tiny and Keven
+Tiny and Jefferey
+Lee and Keven
+
+Acquaintance Graph 3: 7Friends: 
+Regina, Geraldine, Michael, Freddy, Tamatha, Shelli, Bryanna, 
+1 1 0 1 0 1 1 
+1 1 1 1 1 1 0 
+0 1 1 0 0 0 0 
+1 1 0 1 1 0 0 
+0 1 0 1 1 0 1 
+1 1 0 0 0 1 1 
+1 0 0 0 1 1 1 
+Introductions to be made:
+Regina and Michael
+Regina and Tamatha
+Geraldine and Bryanna
+Michael and Freddy
+Michael and Tamatha
+Michael and Shelli
+Michael and Bryanna
+Freddy and Shelli
+Freddy and Bryanna
+Tamatha and Shelli
+
+Acquaintance Graph 4: 5Friends: 
+Ladawn, Corene, Anastasia, Fermin, Keturah, 
+1 1 0 0 1 
+1 0 1 0 1 
+0 1 0 1 0 
+0 0 1 0 1 
+1 1 0 1 0 
+Introductions to be made:
+Ladawn and Anastasia
+Ladawn and Fermin
+Corene and Fermin
+Anastasia and Keturah
+
+Acquaintance Graph 5: 4Friends: 
+Anastasia, Tawna, Kym, Magdalene, 
+1 1 1 1 
+1 0 0 1 
+1 0 0 1 
+1 1 1 0 
+Introductions to be made:
+Tawna and Kym
+

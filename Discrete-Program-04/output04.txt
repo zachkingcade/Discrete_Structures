@@ -1,0 +1,62 @@
+Zachary Kingcade
+Discrete Program 04
+Acquaintance Graph 0: 5Friends: 
+Agueda, Temika, Katharina, Apolonia, Nakisha, 
+0 1 1 0 1 
+1 1 0 0 1 
+1 0 0 0 0 
+0 0 0 0 1 
+1 1 0 1 0 
+Introductions to be made:
+Agueda and Apolonia
+Temika and Katharina
+Temika and Apolonia
+Katharina and Apolonia
+Katharina and Nakisha
+
+Acquaintance Graph 1: 4Friends: 
+Ronda, Athena, Oma, Alise, 
+0 1 0 0 
+1 1 1 1 
+0 1 0 0 
+0 1 0 0 
+Introductions to be made:
+Ronda and Oma
+Ronda and Alise
+Oma and Alise
+
+Acquaintance Graph 2: 3Friends: 
+Bernardina, Todd, Meredith, 
+0 1 1 
+1 0 1 
+1 1 1 
+Introductions to be made:
+
+Acquaintance Graph 3: 3Friends: 
+Sibyl, Alta, Nathaniel, 
+1 1 0 
+1 0 1 
+0 1 0 
+Introductions to be made:
+Sibyl and Nathaniel
+
+Acquaintance Graph 4: 4Friends: 
+Felisha, Kanisha, Brenton, Kesha, 
+0 0 1 0 
+0 1 0 1 
+1 0 1 0 
+0 1 0 1 
+Introductions to be made:
+Felisha and Kanisha
+Felisha and Kesha
+Kanisha and Brenton
+Brenton and Kesha
+
+Acquaintance Graph 5: 3Friends: 
+Leone, Diedre, Kayla, 
+1 0 1 
+0 1 1 
+1 1 1 
+Introductions to be made:
+Leone and Diedre
+

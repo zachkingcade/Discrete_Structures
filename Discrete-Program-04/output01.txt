@@ -1,0 +1,27 @@
+Zachary Kingcade
+Discrete Program 04
+Acquaintance Graph 0: 4Friends: 
+Richard, Tina, Michelle, Ranette, 
+1 0 1 1 
+0 1 0 1 
+1 0 1 0 
+0 1 0 1 
+Introductions to be made:
+Richard and Tina
+Tina and Michelle
+Michelle and Ranette
+Ranette and Richard
+
+Acquaintance Graph 1: 5Friends: 
+Diane, Shay, Debbie, Mary, Gus, 
+1 1 1 0 1 
+1 1 0 1 0 
+1 0 1 0 1 
+0 1 0 1 1 
+1 0 1 1 1 
+Introductions to be made:
+Diane and Mary
+Shay and Debbie
+Shay and Gus
+Debbie and Mary
+

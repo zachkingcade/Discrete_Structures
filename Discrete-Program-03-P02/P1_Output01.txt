@@ -1,0 +1,5 @@
+Zach kingcade
+Discrete Program 03 Output
+
+There are 95 primes between 2 and 500
+Algorithm runtime: 0.000283

@@ -1,0 +1,5 @@
+Zach kingcade
+Discrete Program 03 Output
+
+There are 5133 primes between 2 and 50000
+Algorithm runtime: 0.696525

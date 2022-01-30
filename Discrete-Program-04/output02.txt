@@ -1,0 +1,86 @@
+Zachary Kingcade
+Discrete Program 04
+Acquaintance Graph 0: 6Friends: 
+Krista, Khadijah, Jonell, Dominick, Naida, Kali, 
+1 1 1 0 1 0 
+1 1 0 1 1 0 
+1 0 0 0 1 1 
+0 1 0 0 1 1 
+1 1 1 1 1 1 
+0 0 1 1 1 1 
+Introductions to be made:
+Krista and Dominick
+Krista and Kali
+Khadijah and Jonell
+Khadijah and Kali
+Jonell and Dominick
+
+Acquaintance Graph 1: 7Friends: 
+Crystle, Jayna, Cristal, Leesa, Owen, Shelli, Candie, 
+0 1 0 1 0 0 0 
+1 0 0 0 0 1 1 
+0 0 0 1 0 0 1 
+1 0 1 1 1 1 0 
+0 0 0 1 1 1 0 
+0 1 0 1 1 1 0 
+0 1 1 0 0 0 1 
+Introductions to be made:
+Crystle and Cristal
+Crystle and Owen
+Crystle and Shelli
+Crystle and Candie
+Jayna and Cristal
+Jayna and Leesa
+Jayna and Owen
+Cristal and Owen
+Cristal and Shelli
+Leesa and Candie
+Owen and Candie
+Shelli and Candie
+
+Acquaintance Graph 2: 7Friends: 
+Demetrice, Elisha, Stormy, Carmine, Trinidad, Kanisha, Todd, 
+0 1 0 0 0 0 1 
+1 1 1 0 1 1 0 
+0 1 0 0 1 0 1 
+0 0 0 0 0 0 0 
+0 1 1 0 1 0 0 
+0 1 0 0 0 0 0 
+1 0 1 0 0 0 0 
+Introductions to be made:
+Demetrice and Stormy
+Demetrice and Carmine
+Demetrice and Trinidad
+Demetrice and Kanisha
+Elisha and Carmine
+Elisha and Todd
+Stormy and Carmine
+Stormy and Kanisha
+Carmine and Trinidad
+Carmine and Kanisha
+Carmine and Todd
+Trinidad and Kanisha
+Trinidad and Todd
+Kanisha and Todd
+
+Acquaintance Graph 3: 7Friends: 
+Joan, Stormy, Mildred, Alta, Marguerite, Mathilda, Delois, 
+1 1 0 0 1 1 1 
+1 1 1 1 0 1 1 
+0 1 0 1 1 0 0 
+0 1 1 0 1 0 0 
+1 0 1 1 1 0 0 
+1 1 0 0 0 1 0 
+1 1 0 0 0 0 1 
+Introductions to be made:
+Joan and Mildred
+Joan and Alta
+Stormy and Marguerite
+Mildred and Mathilda
+Mildred and Delois
+Alta and Mathilda
+Alta and Delois
+Marguerite and Mathilda
+Marguerite and Delois
+Mathilda and Delois
+

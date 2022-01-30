@@ -1,0 +1,94 @@
+Zachary Kingcade
+Discrete Program 04
+Acquaintance Graph 0: 3Friends: 
+Shawnta, Denita, Shirl, 
+0 0 1 
+0 0 1 
+1 1 1 
+Introductions to be made:
+Shawnta and Denita
+
+Acquaintance Graph 1: 4Friends: 
+Shelli, Ronda, Sophia, Onie, 
+0 0 1 1 
+0 0 0 0 
+1 0 1 1 
+1 0 1 1 
+Introductions to be made:
+Shelli and Ronda
+Ronda and Sophia
+Ronda and Onie
+
+Acquaintance Graph 2: 4Friends: 
+Monty, Magen, Katharina, Kesha, 
+0 1 0 0 
+1 1 1 0 
+0 1 0 1 
+0 0 1 0 
+Introductions to be made:
+Monty and Katharina
+Monty and Kesha
+Magen and Kesha
+
+Acquaintance Graph 3: 3Friends: 
+Michael, Thu, Temika, 
+0 1 1 
+1 0 0 
+1 0 0 
+Introductions to be made:
+Thu and Temika
+
+Acquaintance Graph 4: 3Friends: 
+Leesa, Meredith, Saundra, 
+0 0 0 
+0 1 1 
+0 1 1 
+Introductions to be made:
+Leesa and Meredith
+Leesa and Saundra
+
+Acquaintance Graph 5: 3Friends: 
+Brock, Nancie, Gracia, 
+0 1 1 
+1 0 1 
+1 1 0 
+Introductions to be made:
+
+Acquaintance Graph 6: 7Friends: 
+Shona, Onie, Lorenza, Simone, Sophia, Sharolyn, Leonie, 
+1 0 0 0 1 1 0 
+0 1 1 1 1 0 0 
+0 1 0 0 1 0 0 
+0 1 0 0 1 0 0 
+1 1 1 1 1 1 1 
+1 0 0 0 1 1 0 
+0 0 0 0 1 0 0 
+Introductions to be made:
+Shona and Onie
+Shona and Lorenza
+Shona and Simone
+Shona and Leonie
+Onie and Sharolyn
+Onie and Leonie
+Lorenza and Simone
+Lorenza and Sharolyn
+Lorenza and Leonie
+Simone and Sharolyn
+Simone and Leonie
+Sharolyn and Leonie
+
+Acquaintance Graph 7: 5Friends: 
+Gillian, Lanny, Fe, Gracia, Rosalee, 
+1 0 0 1 1 
+0 1 0 0 0 
+0 0 1 1 0 
+1 0 1 0 1 
+1 0 0 1 0 
+Introductions to be made:
+Gillian and Lanny
+Gillian and Fe
+Lanny and Fe
+Lanny and Gracia
+Lanny and Rosalee
+Fe and Rosalee
+
